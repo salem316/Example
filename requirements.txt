@@ -4,6 +4,6 @@ scikit-learn==1.0.1
 scipy==1.7.3
 sklearn==0.0
 threadpoolctl==3.0.0
-gunicorn=19.0.0
+gunicorn==19.0.0
 gevent==1.2.1
 passlib==1.7.0
